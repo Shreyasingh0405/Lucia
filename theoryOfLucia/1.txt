@@ -1,0 +1,3 @@
+We will see it implements what is called session based authentication which is a method of authentication where the user session is stored on the ser ver and used to do verify 
+their activity so that .
+ 
